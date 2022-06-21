@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jsmaths": "^1.0.5"
+  }
+}
