@@ -1,0 +1,9 @@
+cat
+sun
+pear
+lion
+bear
+moon
+apple
+mouse
+strawberry
